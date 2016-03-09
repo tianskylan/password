@@ -4,3 +4,4 @@ Windows password cracking application
 * Dictionary based cracking
 
 *USC Professional C++ class project archive*
+*Good School Work*
